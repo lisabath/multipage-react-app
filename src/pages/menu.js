@@ -14,7 +14,7 @@ function Menu() {
         <h3>Sides</h3>
         <p></p>
         <h3>Puddings</h3>
-        <p></p>
+        <p>Tiramasu</p>
 
         <h2>Drink</h2>
         <h3></h3>
