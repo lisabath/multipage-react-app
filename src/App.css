@@ -19,3 +19,32 @@
     padding: 1rem;
     color: antiquewhite;
   }
+  .menu{
+    background-image: url("./pages/artichoke.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+.menu .darkoverlay {
+  background-color: rgba(0,0,0, 0.5);
+
+}
+  .menu h1{
+    font-size: 3rem;
+    color:very dark black;
+    
+
+  }.menu h2{
+    font-size: 2rem;
+    color: green;
+    
+  }
+  .menu h3{
+    font-size: 1rem;
+    color: crimson;
+  }
+ 
+  .menu p {
+    font-style: italic;
+    color: whitesmoke;
+  }
