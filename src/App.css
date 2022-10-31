@@ -1,0 +1,21 @@
+.App {
+  text-align: center;}
+
+  nav{
+    background-color: black;
+  
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+
+  nav ul li {
+    padding: 1rem;
+   
+  }
+  nav ul li a{
+    padding: 1rem;
+    color: antiquewhite;
+  }
