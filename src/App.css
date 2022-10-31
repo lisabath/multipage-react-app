@@ -20,7 +20,7 @@
     color: antiquewhite;
   }
   .menu{
-    background-image: url("./pages/artichoke.avif");
+    background-image: url("../src/pages/artichokes.avif");
     background-repeat: no-repeat;
     background-size: cover;
 
