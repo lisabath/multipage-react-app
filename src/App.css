@@ -48,3 +48,27 @@
     font-style: italic;
     color: whitesmoke;
   }
+
+/* Contact page styles */
+.contact-page-background {
+  background-color: #FFF;
+  background-image: url("./pages/contact-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+/* Form component styles */
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+  
+.form input,
+.form textarea {  
+  font-size: 1rem;
+  margin: 8px;
+  padding: .5rem 1rem;
+}

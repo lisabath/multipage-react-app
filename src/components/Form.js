@@ -17,6 +17,7 @@ function Form() {
                 <input 
                     type="text" 
                     name="fName" 
+                    placeholder="Enter Name"
                     id="fName" 
                 />
 
@@ -24,12 +25,14 @@ function Form() {
                 <input 
                     type="email" 
                     name="email"
+                    placeholder="Enter Email"
                     id="email"
                 />
 
-                <label htmlFor="message">Write your message here</label>
+                <label htmlFor="message"></label>
                 <textarea
                     name="message"
+                    placeholder="Enter message here"
                     id="message">
                 </textarea>
 

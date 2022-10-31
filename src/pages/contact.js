@@ -6,7 +6,7 @@ function Contact() {
         <div className="contact contact-page-background">
           <h1>Contact</h1>
           <p>
-            Use this contact form to get in touch with us.
+            Use this form to get in touch with us.
           </p>
           <Form />
         </div>
