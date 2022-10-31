@@ -33,7 +33,9 @@ function Form() {
                 <textarea
                     name="message"
                     placeholder="Enter message here"
-                    id="message">
+                    id="message"
+                    rows="5"
+                    columns="15">
                 </textarea>
 
                 <button
