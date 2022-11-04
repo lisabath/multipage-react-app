@@ -17,7 +17,7 @@ function About() {
 
   function clickHandler(){
     setMyList( [...myList, 'Coca cola'] )
-    setCurrentPerson({...currentPerson, name: 'Tamara', age: '44'});
+    setCurrentPerson({...currentPerson, name: 'Tamara', age: '43'});
     setCurrentColour('green')
     // setText('something else');
   }
