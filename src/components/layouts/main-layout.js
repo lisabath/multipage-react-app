@@ -10,6 +10,8 @@ const MainLayout = () => {
                         <li><a href="about">About</a></li>
                         <li><a href="contact">Contact</a></li>
                         <li><a href="menu">Menu</a></li>
+                        <li><a href="products">Products</a></li>
+                        <li><a href="dashboard">Dashboard</a></li>
                     </ul>
                 </nav>
             </header>
