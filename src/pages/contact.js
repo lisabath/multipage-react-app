@@ -1,9 +1,15 @@
 function Contact() {
     return (
       <div className="contact">
-        <h1>Contact</h1>
+        <h1>Home Cinema</h1>
         <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore aliquid deserunt ut minus iste dolore, atque et corrupti eum incidunt doloribus consectetur sunt, odio doloremque natus deleniti dolor ab similique.
+    123 Drury Lane<br></br>
+    London<br></br> 
+    WC1 3AT<br></br><br></br>
+    
+    0702 239 2388<br></br><br></br>
+
+    info@homecinema.co.uk
         </p>
       </div>
     );

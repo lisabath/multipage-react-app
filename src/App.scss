@@ -1,3 +1,11 @@
+body {
+  background-image: url("./components/moviereel.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
 .App {
   text-align: center;}
 
@@ -19,48 +27,29 @@
     padding: 1rem;
     color: antiquewhite;
   }
-  .menu{
-    background-image: url("../src/pages/artichokes.avif");
-    background-repeat: no-repeat;
-    background-size: cover;
-
-  }
-.menu .darkoverlay {
-  background-color: rgba(0,0,0, 0.5);
-
-}
-  .menu h1{
-    font-size: 3rem;
-    color: lightsalmon;
     
-
-  }.menu h2{
-    font-size: 2.1rem;
-    color: bisque;
-    
+  .products {
+    background-color: white;
+    background-image: none;
   }
-  .menu h3{
-    font-size: 2rem;
-    color: wheat;
-  }
- 
-  .menu p {
-    font-style: italic;
-    color: whitesmoke;
-  }
-  /*products*/
 
   .products-list {
   &__item {
 
       border-bottom: 1px solid;
       display: flex;
+      color: black;
       justify-content: center;
       padding: 1 rem;
       padding: 1rem 0;
     div {
       padding: 0 1rem;
     }
+    img {
+      height: 12vh;
+      width: 12vh;
+    }
   }
+  
 }
 

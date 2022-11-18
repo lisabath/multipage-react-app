@@ -1,9 +1,11 @@
 function Home() {
     return (
       <div className="home">
-        <h1>Home</h1>
+        <h1>Home Cinema</h1>
         <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore aliquid deserunt ut minus iste dolore, atque et corrupti eum incidunt doloribus consectetur sunt, odio doloremque natus deleniti dolor ab similique.
+        We have a carefully curated selection of films to purchase, in DVD format. <br></br>
+     Instead of having to sign up to monthly payment schemes with various providers,<br></br>
+     you are able to purchase the films you wish to watch as often as you like. 
       </p>
       </div>
     );

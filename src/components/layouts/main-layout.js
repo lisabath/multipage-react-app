@@ -7,11 +7,11 @@ const MainLayout = () => {
                 <nav>
                     <ul>
                         <li><a href="/">Home</a></li>
-                        <li><a href="about">About</a></li>
+                        <li><a href="products">Films</a></li>
+                        <li><a href="about">Cart</a></li>
                         <li><a href="contact">Contact</a></li>
-                        <li><a href="menu">Menu</a></li>
-                        <li><a href="products">Products</a></li>
-                        <li><a href="dashboard">Dashboard</a></li>
+                        
+                        
                     </ul>
                 </nav>
             </header>
